@@ -39,6 +39,16 @@ mask
 
 ```javascript
 //输入完成后触发，（输入长度为密码长度时完成）
-complet
+@complet
+```
+
+### 在线预览
+```
+https://password-keybord-beryl.vercel.app
+```
+### 源码地址
+
+```
+https://github.com/flyingTodream/password-keybord.git
 ```
 

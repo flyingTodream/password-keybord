@@ -43,12 +43,9 @@ mask
 ```
 
 ### 在线预览
-```
-https://password-keybord-beryl.vercel.app
-```
+[https://password-keybord-beryl.vercel.app](https://password-keybord-beryl.vercel.app)
+
 ### 源码地址
 
-```
-https://github.com/flyingTodream/password-keybord.git
-```
+[https://github.com/flyingTodream/password-keybord.git](https://github.com/flyingTodream/password-keybord.git)
 
